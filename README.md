@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://sushinivip.github.io/space-saver/](https://sushinivip.github.io/Space-Saver/)
+> Open this page at [https://sushinivip.github.io/Space-Saver/](https://sushinivip.github.io/Space-Saver/)
 
 ## Use as Extension
 
