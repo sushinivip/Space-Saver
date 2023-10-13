@@ -1,0 +1,27 @@
+{
+    "name": "Git",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "animation": "*",
+        "pxt-button-combos": "github:jwunderl/pxt-button-combos#v0.0.24",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.41",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
